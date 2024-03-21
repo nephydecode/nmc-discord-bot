@@ -79,7 +79,7 @@ This bot was previously deployed on [replit](https://replit.com/@njh18/Loops-pra
 
 ## Contributors
 #### Maintained by
-[@njh18](https://github.com/njh18) [@nephydecode](https://github.com/nephydecode)
+[@njh18](https://github.com/njh18) [@nephykoda](https://github.com/nephykoda)
 
 #### Contributors
 [@cheeann97](https://github.com/cheeann97)
